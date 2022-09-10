@@ -1,6 +1,6 @@
 ### Hi there, I'm Elijah! 👋
 
-- 🌱 Fullstack Developer looking for work
+- 🌱 Fullstack Developer at Performance Health Partners
 - 🐊 New Orleans, Louisiana
 - 😄 He/Him
 
