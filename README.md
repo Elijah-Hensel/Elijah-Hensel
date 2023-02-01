@@ -1,6 +1,6 @@
 ### Hi there, I'm Elijah! 👋
 
-- 🌱 Fullstack Developer at Performance Health Partners
+- 🛸 React/Javascript/Rails Developer and Mentor at Fullstack Academy
 - 🐊 New Orleans, Louisiana
 - 😄 He/Him
 
