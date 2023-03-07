@@ -6,6 +6,6 @@
 
 ### Contact Me:
 - 👨🏻‍💻 [Portfolio](https://www.elijahhensel.xyz)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/elijah-hensel-052095196/)
-- 📫 elijah.witth@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/elijah-hensel/)
+- 📫 elijah.j.hensel@gmail.com
 
